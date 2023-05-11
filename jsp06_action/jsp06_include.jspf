@@ -1,0 +1,5 @@
+<%@page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%! String user_name = "홍길동";
+	String gender = "남자";
+	int age = 1000;
+%>
